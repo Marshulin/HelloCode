@@ -1,0 +1,15 @@
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\bin\Debug\net6.0\Ex_005_Condition.exe
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\bin\Debug\net6.0\Ex_005_Condition.deps.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\bin\Debug\net6.0\Ex_005_Condition.runtimeconfig.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\bin\Debug\net6.0\Ex_005_Condition.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\bin\Debug\net6.0\Ex_005_Condition.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\obj\Debug\net6.0\Ex_005_Condition.csproj.AssemblyReference.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\obj\Debug\net6.0\Ex_005_Condition.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\obj\Debug\net6.0\Ex_005_Condition.AssemblyInfoInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\obj\Debug\net6.0\Ex_005_Condition.AssemblyInfo.cs
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\obj\Debug\net6.0\Ex_005_Condition.csproj.CoreCompileInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\obj\Debug\net6.0\Ex_005_Condition.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\obj\Debug\net6.0\refint\Ex_005_Condition.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\obj\Debug\net6.0\Ex_005_Condition.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\obj\Debug\net6.0\Ex_005_Condition.genruntimeconfig.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_005_Condition\obj\Debug\net6.0\ref\Ex_005_Condition.dll
