@@ -1,0 +1,15 @@
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\bin\Debug\net6.0\Ex_002_helloUser.exe
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\bin\Debug\net6.0\Ex_002_helloUser.deps.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\bin\Debug\net6.0\Ex_002_helloUser.runtimeconfig.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\bin\Debug\net6.0\Ex_002_helloUser.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\bin\Debug\net6.0\Ex_002_helloUser.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\obj\Debug\net6.0\Ex_002_helloUser.csproj.AssemblyReference.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\obj\Debug\net6.0\Ex_002_helloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\obj\Debug\net6.0\Ex_002_helloUser.AssemblyInfoInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\obj\Debug\net6.0\Ex_002_helloUser.AssemblyInfo.cs
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\obj\Debug\net6.0\Ex_002_helloUser.csproj.CoreCompileInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\obj\Debug\net6.0\Ex_002_helloUser.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\obj\Debug\net6.0\refint\Ex_002_helloUser.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\obj\Debug\net6.0\Ex_002_helloUser.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\obj\Debug\net6.0\Ex_002_helloUser.genruntimeconfig.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_002_helloUser\obj\Debug\net6.0\ref\Ex_002_helloUser.dll
