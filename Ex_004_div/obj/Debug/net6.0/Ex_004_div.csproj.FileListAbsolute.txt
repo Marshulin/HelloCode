@@ -1,0 +1,15 @@
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\bin\Debug\net6.0\Ex_004_div.exe
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\bin\Debug\net6.0\Ex_004_div.deps.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\bin\Debug\net6.0\Ex_004_div.runtimeconfig.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\bin\Debug\net6.0\Ex_004_div.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\bin\Debug\net6.0\Ex_004_div.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\obj\Debug\net6.0\Ex_004_div.csproj.AssemblyReference.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\obj\Debug\net6.0\Ex_004_div.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\obj\Debug\net6.0\Ex_004_div.AssemblyInfoInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\obj\Debug\net6.0\Ex_004_div.AssemblyInfo.cs
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\obj\Debug\net6.0\Ex_004_div.csproj.CoreCompileInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\obj\Debug\net6.0\Ex_004_div.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\obj\Debug\net6.0\refint\Ex_004_div.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\obj\Debug\net6.0\Ex_004_div.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\obj\Debug\net6.0\Ex_004_div.genruntimeconfig.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_004_div\obj\Debug\net6.0\ref\Ex_004_div.dll
