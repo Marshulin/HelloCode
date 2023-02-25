@@ -1,0 +1,15 @@
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\obj\Debug\net6.0\Ex_003_Sum.csproj.AssemblyReference.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\obj\Debug\net6.0\Ex_003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\obj\Debug\net6.0\Ex_003_Sum.AssemblyInfoInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\obj\Debug\net6.0\Ex_003_Sum.AssemblyInfo.cs
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\obj\Debug\net6.0\Ex_003_Sum.csproj.CoreCompileInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\bin\Debug\net6.0\Ex_003_Sum.exe
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\bin\Debug\net6.0\Ex_003_Sum.deps.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\bin\Debug\net6.0\Ex_003_Sum.runtimeconfig.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\bin\Debug\net6.0\Ex_003_Sum.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\bin\Debug\net6.0\Ex_003_Sum.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\obj\Debug\net6.0\Ex_003_Sum.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\obj\Debug\net6.0\refint\Ex_003_Sum.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\obj\Debug\net6.0\Ex_003_Sum.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\obj\Debug\net6.0\Ex_003_Sum.genruntimeconfig.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_003_Sum\obj\Debug\net6.0\ref\Ex_003_Sum.dll
