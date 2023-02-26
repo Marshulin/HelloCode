@@ -1,0 +1,15 @@
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\obj\Debug\net6.0\Ex_009_IntroArry.csproj.AssemblyReference.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\obj\Debug\net6.0\Ex_009_IntroArry.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\obj\Debug\net6.0\Ex_009_IntroArry.AssemblyInfoInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\obj\Debug\net6.0\Ex_009_IntroArry.AssemblyInfo.cs
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\obj\Debug\net6.0\Ex_009_IntroArry.csproj.CoreCompileInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\bin\Debug\net6.0\Ex_009_IntroArry.exe
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\bin\Debug\net6.0\Ex_009_IntroArry.deps.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\bin\Debug\net6.0\Ex_009_IntroArry.runtimeconfig.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\bin\Debug\net6.0\Ex_009_IntroArry.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\bin\Debug\net6.0\Ex_009_IntroArry.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\obj\Debug\net6.0\Ex_009_IntroArry.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\obj\Debug\net6.0\refint\Ex_009_IntroArry.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\obj\Debug\net6.0\Ex_009_IntroArry.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\obj\Debug\net6.0\Ex_009_IntroArry.genruntimeconfig.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_009_IntroArry\obj\Debug\net6.0\ref\Ex_009_IntroArry.dll
