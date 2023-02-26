@@ -1,0 +1,15 @@
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\obj\Debug\net6.0\Ex_008_IntroMetod.csproj.AssemblyReference.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\obj\Debug\net6.0\Ex_008_IntroMetod.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\obj\Debug\net6.0\Ex_008_IntroMetod.AssemblyInfoInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\obj\Debug\net6.0\Ex_008_IntroMetod.AssemblyInfo.cs
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\obj\Debug\net6.0\Ex_008_IntroMetod.csproj.CoreCompileInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\bin\Debug\net6.0\Ex_008_IntroMetod.exe
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\bin\Debug\net6.0\Ex_008_IntroMetod.deps.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\bin\Debug\net6.0\Ex_008_IntroMetod.runtimeconfig.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\bin\Debug\net6.0\Ex_008_IntroMetod.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\bin\Debug\net6.0\Ex_008_IntroMetod.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\obj\Debug\net6.0\Ex_008_IntroMetod.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\obj\Debug\net6.0\refint\Ex_008_IntroMetod.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\obj\Debug\net6.0\Ex_008_IntroMetod.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\obj\Debug\net6.0\Ex_008_IntroMetod.genruntimeconfig.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_008_IntroMetod\obj\Debug\net6.0\ref\Ex_008_IntroMetod.dll
