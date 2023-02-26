@@ -1,0 +1,15 @@
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\bin\Debug\net6.0\Ex_010_Method.exe
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\bin\Debug\net6.0\Ex_010_Method.deps.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\bin\Debug\net6.0\Ex_010_Method.runtimeconfig.json
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\bin\Debug\net6.0\Ex_010_Method.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\bin\Debug\net6.0\Ex_010_Method.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\obj\Debug\net6.0\Ex_010_Method.csproj.AssemblyReference.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\obj\Debug\net6.0\Ex_010_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\obj\Debug\net6.0\Ex_010_Method.AssemblyInfoInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\obj\Debug\net6.0\Ex_010_Method.AssemblyInfo.cs
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\obj\Debug\net6.0\Ex_010_Method.csproj.CoreCompileInputs.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\obj\Debug\net6.0\Ex_010_Method.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\obj\Debug\net6.0\refint\Ex_010_Method.dll
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\obj\Debug\net6.0\Ex_010_Method.pdb
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\obj\Debug\net6.0\Ex_010_Method.genruntimeconfig.cache
+D:\МАРИНА\GeekBrains\Знакомство с языками программирования (лекции)\1_lekcia\Ex_010_Method\obj\Debug\net6.0\ref\Ex_010_Method.dll
